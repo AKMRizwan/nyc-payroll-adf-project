@@ -1,0 +1,15 @@
+{
+	"name": "datafactorynycpayroll",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cb0f7a7c-4b57-4c4a-b374-ce1a3c24d2ab",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
